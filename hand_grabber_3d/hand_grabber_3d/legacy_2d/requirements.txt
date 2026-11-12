@@ -1,0 +1,5 @@
+# pymunk is only needed for this old 2D version
+mediapipe==0.10.14
+opencv-python>=4.8
+numpy<2
+pymunk==6.8.1

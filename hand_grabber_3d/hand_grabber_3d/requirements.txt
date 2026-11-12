@@ -1,0 +1,5 @@
+# Python 3.10 - 3.12 on Windows
+mediapipe==0.10.14
+opencv-python>=4.8
+numpy<2
+panda3d>=1.10.14,<1.11
